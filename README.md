@@ -24,6 +24,7 @@ Logo depois arraste para baixo e vá nas opções de JVM Arguments e cole os seg
 # INSTALAÇÃO DO MODPACK
 
 Apague toda sua .minecraft caso você já tenha o mine instalado
-Arraste todo o conteúdo da .zip baixado para a .minecraft e substituem os arquivos
+
+Arraste todo o conteúdo da .zip baixado para a .minecraft e substitua os arquivos.
 
 
