@@ -13,6 +13,7 @@
 Download do sklauncher: https://skmedix.pl/downloads 
 
 Baixe e instale o Java JDK 17 na opção de x64bits .msi https://adoptium.net/temurin/releases/?version=17
+
 Crie uma conta pelo site e de upload em sua skin, coloque seu nick no launcher no modo offline e logue
 
 Ao entrar no launcher vá em Launcher Settings e ative a opção "Allow Xmx Arguments"
