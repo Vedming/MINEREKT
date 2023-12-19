@@ -8,6 +8,13 @@
 
 # [DISCORD](https://discord.gg/QXFKXaTRHB)
 
+
+# INSTALAÇÃO DO MODPACK
+
+Apague todo conteúdo da sua .minecraft caso você já tenha o mine instalado.
+
+Arraste todo o conteúdo da .zip baixado para a .minecraft e substitua os arquivos, caso não tenha a .minecraft criada, crie ela e arraste o conteúdo.
+
 # CONFIGURAÇÃO E DOWNLOAD DO SKLAUNCHER:
 
 Download do sklauncher: https://skmedix.pl/downloads 
@@ -29,9 +36,3 @@ Logo depois arraste para baixo e vá nas opções de JVM Arguments e cole os seg
 ```
 
 (-XmxXG e -XmsXG irão definir sua RAM alocada, o recomendado é de 6 - 12 e o mínimo 4, edite para o valor desejado)
-
-# INSTALAÇÃO DO MODPACK
-
-Apague toda sua .minecraft caso você já tenha o mine instalado
-
-Arraste todo o conteúdo da .zip baixado para a .minecraft e substitua os arquivos.
