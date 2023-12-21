@@ -37,7 +37,7 @@ Utilizamos o [SKLAUNCHER](https://skmedix.pl/) para abrir o minecraft, pois isso
 
 Para baixar o sklauncher, >>[CLIQUE AQUI](https://skmedix.pl/downloads)<<
 
-![sklauncher](https://imgur.com/a/0H3s8QC)
+![sklauncher](https://i.imgur.com/PDKI1pU.png)
 
 > [!WARNING]
 > Caso não consiga iniciar o download, desligue seu ad-block ou qualquer bloqueador de anúncios que esteja utilizando!
@@ -47,11 +47,11 @@ Baixe e instale o Java JDK 17 >>[CLICANDO AQUI](https://objects.githubuserconten
 
 [Crie sua conta](https://skmedix.pl/login) pelo site do SKLauncher
 
-![criarconta](https://imgur.com/a/2mcBpq5)
+![criarconta](https://i.imgur.com/NOuIOxZ.png)
 
 Depois de se registrar, clique em My account, digite o nick que irá utilizar e escolha sua skin.
 
-![skin](https://imgur.com/a/bI1uYgT)
+![skin](https://i.imgur.com/bBs8Jht.png)
 
 >Como eu escolho minha skin?
 
@@ -59,13 +59,13 @@ Entre em [Minecraft skins](https://www.minecraftskins.com/) e escolha a sua pref
 
 Após abrir o SKLauncher, digite seu nick e aperte no  + ao lado de Instalations manager
 
-![manager](https://imgur.com/a/UNmkT02)
+![manager](https://i.imgur.com/AlfJLSo.png)
 
 
 Coloque as configurações conforme a imagem abaixo.
 Versão 1.19.2 e Forge 43.3.5
 
-![forge](https://imgur.com/a/kdRRpjA)
+![forge](https://i.imgur.com/oSyFQCp.png)
 
 Aperte em more options e em JVM Arguments cole o seguinte
 
@@ -73,7 +73,7 @@ Aperte em more options e em JVM Arguments cole o seguinte
 -Xmx8G -Xms8G -XX:+UnlockExperimentalVMOptions -XX:+UnlockDiagnosticVMOptions -XX:+AlwaysPreTouch -XX:+DisableExplicitGC -XX:+UseNUMA -XX:NmethodSweepActivity=1 -XX:ReservedCodeCacheSize=400M -XX:NonNMethodCodeHeapSize=12M -XX:ProfiledCodeHeapSize=194M -XX:NonProfiledCodeHeapSize=194M -XX:-DontCompileHugeMethods -XX:MaxNodeLimit=240000 -XX:NodeLimitFudgeFactor=8000 -XX:+UseVectorCmov -XX:+PerfDisableSharedMem -XX:+UseFastUnorderedTimeStamps -XX:+UseCriticalJavaThreadPriority -XX:ThreadPriorityPolicy=1 -XX:AllocatePrefetchStyle=3  -XX:+UseG1GC -XX:MaxGCPauseMillis=37 -XX:+PerfDisableSharedMem -XX:G1HeapRegionSize=16M -XX:G1NewSizePercent=23 -XX:G1ReservePercent=20 -XX:SurvivorRatio=32 -XX:G1MixedGCCountTarget=3 -XX:G1HeapWastePercent=20 -XX:InitiatingHeapOccupancyPercent=10 -XX:G1RSetUpdatingPauseTimePercent=0 -XX:MaxTenuringThreshold=1 -XX:G1SATBBufferEnqueueingThresholdPercent=30 -XX:G1ConcMarkStepDurationMillis=5.0 -XX:G1ConcRSHotCardLimit=16 -XX:G1ConcRefinementServiceIntervalMillis=150 -XX:GCTimeRatio=99 -XX:+UseLargePages -XX:LargePageSizeInBytes=2m
 ```
 
-![parametros](https://imgur.com/a/gHVZdbS)
+![parametros](https://i.imgur.com/ZLPmDg9.png)
 
 > [!WARNING]
 > Recomendamos de 6 a 12 gb e ram, edite -Xmx8G -Xms8G com os valores que desejar.
@@ -91,7 +91,7 @@ Após o jogo abrir, feche-o e siga o proximo passo.
 
 Abra a .minecraft do modpack apertando o botao direito e apertando em "Open Instalation directory"
 
-![.minecraft](https://imgur.com/a/sUPOAOV)
+![.minecraft](https://i.imgur.com/oCdbI8G.png)
 
 Apague todo o conteudo da pasta e baixe a ultima versão do minerekt em [releases](https://github.com/Vedming/MINEREKT/releases) 
 
