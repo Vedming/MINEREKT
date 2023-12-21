@@ -102,7 +102,7 @@ Abra o arquivo compactado e cole todo o conteudo na pasta.
 
 **Abra o jogo e aproveite o servidor!**
 
->Caso tenha algum erro ou dúvida em qualquer etapa do processo, entre no nosso [discord](https://discord.gg/QXFKXaTRHB).**
+>Caso tenha algum erro ou dúvida em qualquer etapa do processo, entre no nosso **[discord](https://discord.gg/QXFKXaTRHB).**
 
 > [!IMPORTANT]
 >Para atualizar o jogo, entre na pagina de [releases](https://github.com/Vedming/MINEREKT/releases) e verifique se há alguma atualização, as instruções estão dentro do arquivo compactado.
