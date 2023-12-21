@@ -42,9 +42,6 @@ Para baixar o sklauncher, >>[CLIQUE AQUI](https://skmedix.pl/downloads)<<
 > [!WARNING]
 > Caso não consiga iniciar o download, desligue seu ad-block ou qualquer bloqueador de anúncios que esteja utilizando!
 
-
-Baixe e instale o Java JDK 17 >>[CLICANDO AQUI](https://objects.githubusercontent.com/github-production-release-asset-2e65be/372925194/68c78808-ebea-4dec-96ad-439db70632e8?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231221%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231221T013658Z&X-Amz-Expires=300&X-Amz-Signature=418d8b04f23c01d14c7afa14d93d0cc50648e03f21f7731e8c8eb0bb44b5ced8&X-Amz-SignedHeaders=host&actor_id=62126803&key_id=0&repo_id=372925194&response-content-disposition=attachment%3B%20filename%3DOpenJDK17U-jdk_x64_windows_hotspot_17.0.9_9.msi&response-content-type=application%2Foctet-stream)<<
-
 [Crie sua conta](https://skmedix.pl/login) pelo site do SKLauncher
 
 ![criarconta](https://i.imgur.com/NOuIOxZ.png)
@@ -88,6 +85,7 @@ Após o jogo abrir, feche-o e siga o proximo passo.
 
 # INSTALAÇÃO DO MODPACK
 
+Baixe e instale o Java JDK 17 >>[CLICANDO AQUI](https://objects.githubusercontent.com/github-production-release-asset-2e65be/372925194/68c78808-ebea-4dec-96ad-439db70632e8?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231221%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231221T013658Z&X-Amz-Expires=300&X-Amz-Signature=418d8b04f23c01d14c7afa14d93d0cc50648e03f21f7731e8c8eb0bb44b5ced8&X-Amz-SignedHeaders=host&actor_id=62126803&key_id=0&repo_id=372925194&response-content-disposition=attachment%3B%20filename%3DOpenJDK17U-jdk_x64_windows_hotspot_17.0.9_9.msi&response-content-type=application%2Foctet-stream)<<
 
 Abra a .minecraft do modpack apertando o botao direito e apertando em "Open Instalation directory"
 
