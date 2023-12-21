@@ -16,9 +16,9 @@
 # Catalogo
 
 
-2. [ Instalar o launcher](#CONFIGURAÇÃO-E-DOWNLOAD-DO-SKLAUNCHER)
+1. [ Instalar o launcher](#CONFIGURAÇÃO-E-DOWNLOAD-DO-SKLAUNCHER)
 
-3. [ Instalar o modpack/Atualizar](#INSTALAÇÃO-DO-MODPACK)
+2. [ Instalar o modpack/Atualizar](#INSTALAÇÃO-DO-MODPACK)
 
 
 
