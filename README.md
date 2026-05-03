@@ -62,7 +62,7 @@ Após abrir o SKLauncher, digite seu nick e aperte no  + ao lado de Instalations
 Coloque as configurações conforme a imagem abaixo.
 Versão 1.19.2 e Forge 43.5.2
 
-![forge]([<https://prnt.sc/fqk9OLYKl-gY>](https://imgur.com/a/W4fNjIO))
+![forge]([<https://prnt.sc/fqk9OLYKl-gY>](https://imgur.com/a/W4fNjIO>])
 
 Aperte em more options e em JVM Arguments cole o seguinte
 
